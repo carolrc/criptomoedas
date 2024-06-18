@@ -53,12 +53,16 @@ O projeto pode ser executado online acessando o link [GitHub do Projeto](https:/
 
  ## 🔨🔧💻 Tecnologias utilizadas
  
+[![Icon1](https://i.ibb.co/mFRrWd6/image-3.png)
+
 Trello
 
+[![Icon2](https://i.ibb.co/mJLpvXk/image-2.png)
+
 WhatsApp
-
+[![Icon3](https://i.ibb.co/ncsyK2z/image-1.png)
 VS Code
-
+[![Icon4](https://i.ibb.co/6Yvx6fw/image.pn)
 Biblioteca Pandas
 
 MySQL WorkBench
