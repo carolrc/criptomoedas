@@ -51,6 +51,12 @@ O projeto pode ser executado online acessando o link [GitHub do Projeto](https:/
 <strong>7.</strong>Existe correlação entre os valores para todas as criptomoedas?
  <br>
 
+ <strong>8.</strong>Qual é a distribuição dos valores para cada criptomoeda?
+ <br>
+
+ <strong>9.</strong>Qual foi o maior e o menor valor registrado para cada criptomoeda ao longo do período analisado?
+ <br>
+
  ## 🔨🔧💻 Tecnologias utilizadas
  
 
