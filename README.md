@@ -30,31 +30,31 @@ O projeto pode ser executado online acessando o link [GitHub do Projeto](https:/
 
 ## 📑 Perguntas
 
-<strong>1.</strong>Como se comportaram os valores para todas as criptomoedas? Os valores tiveram uma tendência de queda ou de aumento?
+<strong>1. </strong>Como se comportaram os valores para todas as criptomoedas? Os valores tiveram uma tendência de queda ou de aumento?
  <br>
 
-<strong>2.</strong>Quais os valores médios para todas as criptomoedas?
+<strong>2. </strong>Quais os valores médios para todas as criptomoedas?
  <br>
 
-<strong>3.</strong>Em quais anos houve maiores quedas e valorizações?
+<strong>3. </strong>Em quais anos houve maiores quedas e valorizações?
  <br>
 
-<strong>4.</strong>Existe alguma tendência de aumento ou queda dos valores pelo dia da semana?
+<strong>4. </strong>Existe alguma tendência de aumento ou queda dos valores pelo dia da semana?
  <br>
 
-<strong>5.</strong>Qual moeda se mostra mais interessante em relação à valorização pela análise da série histórica?
+<strong>5. </strong>Qual moeda se mostra mais interessante em relação à valorização pela análise da série histórica?
  <br>
 
- <strong>6.</strong>Qual moeda se mostra menos interessante em relação à valorização pela análise da série histórica?
+ <strong>6. </strong>Qual moeda se mostra menos interessante em relação à valorização pela análise da série histórica?
  <br>
 
-<strong>7.</strong>Existe correlação entre os valores para todas as criptomoedas?
+<strong>7. </strong>Existe correlação entre os valores para todas as criptomoedas?
  <br>
 
- <strong>8.</strong>Qual é a distribuição dos valores para cada criptomoeda?
+ <strong>8. </strong>Qual é a distribuição dos valores para cada criptomoeda?
  <br>
 
- <strong>9.</strong>Qual foi o maior e o menor valor registrado para cada criptomoeda ao longo do período analisado?
+ <strong>9. </strong>Qual foi o maior e o menor valor registrado para cada criptomoeda ao longo do período analisado?
  <br>
 
  ## 🔨🔧💻 Tecnologias utilizadas
