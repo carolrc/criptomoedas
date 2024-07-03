@@ -68,6 +68,12 @@ VS Code
 
 Biblioteca Pandas
 
+Biblioteca Numpy
+
+Biblioteca Matplotlib
+
+Biblioteca Seaborn
+
 MySQL WorkBench
   
 Excel
