@@ -62,8 +62,6 @@ O projeto pode ser executado online acessando o link [GitHub do Projeto](https:/
 
 Trello
 
-![Icon2]()
-
 WhatsApp
 
 VS Code 
