@@ -20,13 +20,14 @@ O projeto pode ser executado online acessando o link [GitHub do Projeto](https:/
 
 ### Localmente
 
-1. Baixe o Xampp na sua máquina e clique em MySQL.
-2. Baixe o MySQL Workbench e instale a porta root.
-3. Faça o download do projeto clicando em "Code" e em seguida "Download ZIP" no [GitHub do Projeto](https://github.com/carolrc/criptomoedas).
-4. Extraia o arquivo ZIP em uma pasta de sua preferência.
-5. Abra o MySQL e navegue até o diretório onde você extraiu os arquivos.
-6. Abra os arquivos
-
+1. Baixe o arquivo na sua máquina e clique em VSCode.
+2. Faça o download do projeto clicando em "Code" e em seguida "Download ZIP" no [GitHub do Projeto](https://github.com/carolrc/criptomoedas).
+3. Extraia o arquivo ZIP em uma pasta de sua preferência.
+4. Abra o programa e navegue até o diretório onde você extraiu os arquivos.
+5. Abra os arquivos
+6. Instale as extensões no seu vscode.
+7. Faça a importação das bibliotecas"pandas"seaborn" e "matplotlib".
+8. Execute o projeto.
 
 ## 📑 Perguntas
 
